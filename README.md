@@ -14,11 +14,7 @@
 
 ---
 
-## 📫 Cómo contactarme
 
-- 📧 Email: tuemail@example.com  
-- 💬 Twitter: [@tuusuario](https://twitter.com/tuusuario)  
-- 🔗 LinkedIn: [Tu Perfil](https://linkedin.com/in/tuusuario)
 
 ---
 
